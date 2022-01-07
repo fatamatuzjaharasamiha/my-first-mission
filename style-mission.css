@@ -1,6 +1,7 @@
 body{
     font-family: 'Poppins', sans-serif;
     margin: 0;
+    padding: 0px 50px;
 }
 h1{
     border-left: 3px solid red;
@@ -14,7 +15,7 @@ h1{
     margin-top: 20px;
 }
 .first-step img{
-    width: 30%;
+    width: 35%;
 }
 
 .button{
@@ -35,7 +36,7 @@ h2{
     border: 0px solid skyblue;
     border-radius: 50px;
     padding: 40px 50px 40px 50px;
-    margin: 10px 10px 10px 40px;
+    margin: 10px 10px 2px 40px;
     width: 50%;
 }
 .mission img{
@@ -49,4 +50,24 @@ h2{
 }
 #gray{
     background-color: azure;
+}
+#develop{
+    border: none;
+}
+.third img{
+    width: 70%;
+    
+}
+.third{
+    width: 41%;
+    margin-right: -105px;
+    margin-top: 2%;
+    margin-left: 40px;
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+}
+.third-contain{
+    width: 50%;
+    margin-right: 10px;
+    margin-top: 5%;
 }
