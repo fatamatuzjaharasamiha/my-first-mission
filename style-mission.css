@@ -77,3 +77,23 @@ h2{
 .global img{
     width: 70%
 }
+.last img{
+    width: 30%;
+
+}
+.computer{
+    text-align: center;
+}
+.footer{
+    margin: 0;
+    padding: 0; 
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+.footer p{
+    color: turquoise;
+}
+.footer-2022{
+    color: tomato;
+}
